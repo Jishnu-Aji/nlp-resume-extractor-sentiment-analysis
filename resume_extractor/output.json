@@ -1,0 +1,15 @@
+[
+  {
+    "resume_id": 1,
+    "emails": [
+      "bob_johnson123@domain.co.uk",
+      "jane.smith@sample.org",
+      "john.doe@example.com"
+    ],
+    "phones": [
+      "+1 (555) 123-4567",
+      "(555) 555 5555",
+      "555-987-6543"
+    ]
+  }
+]
